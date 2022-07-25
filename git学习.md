@@ -9,5 +9,7 @@ https://www.cnblogs.com/upstudy/p/15870787.html
 gitignore为何不起作用?
 https://blog.51cto.com/u_13238147/2766422
 
+git使用教程最全:https://www.cnblogs.com/upstudy/p/15870787.html
+
 - 利用git实现项目的回滚
 - gitignore表示上传的黑名单
