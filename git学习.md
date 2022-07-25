@@ -13,3 +13,5 @@ git使用教程最全:https://www.cnblogs.com/upstudy/p/15870787.html
 
 - 利用git实现项目的回滚
 - gitignore表示上传的黑名单
+
+解决 Failed to connect to github.com port 443:connection timed out:https://blog.csdn.net/Hodors/article/details/103226958
