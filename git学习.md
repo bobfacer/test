@@ -15,3 +15,5 @@ git使用教程最全:https://www.cnblogs.com/upstudy/p/15870787.html
 - gitignore表示上传的黑名单
 
 解决 Failed to connect to github.com port 443:connection timed out:https://blog.csdn.net/Hodors/article/details/103226958
+
+切记要为git设置全局代理:https://github.com/Fndroid/clash_for_windows_pkg/issues/1563
